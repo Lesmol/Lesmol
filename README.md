@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Lesedi 👋
 
 <!--
 **Lesmol/Lesmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Software development student
+- :house: I currently live in South Africa
+- :heart: I have a strong appreciation for beautiful UI
+- :bar_chart: I am constantly looking for new challenges
+![192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0](https://github.com/Lesmol/Lesmol/assets/108514271/d37198b0-667f-4e2b-ae9b-e155d1c9881e)
+
