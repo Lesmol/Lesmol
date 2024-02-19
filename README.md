@@ -22,5 +22,5 @@ A software development student and here are some quick fire facts about me:
 - :racing_car: A bias for action
 
 ### Tools at my disposal :smirk:
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,azure,cs,dotnet,java,git,githubactions,tailwind&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,azure,cs,dotnet,git,githubactions,tailwind,firebase,mysql,html,css&perline=6)](https://skillicons.dev)
 
