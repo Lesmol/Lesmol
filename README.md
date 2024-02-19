@@ -1,4 +1,4 @@
-### Hi there, I'm Lesedi 👋
+# Hi there, I'm Lesedi 👋
 
 <!--
 **Lesmol/Lesmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Software development student
+A software development student and here are some quick fire facts about me:
 - :house: I currently live in South Africa
-- :heart: I have a strong appreciation for beautiful UI
+- :purple_heart: I have a strong appreciation for beautiful UI
 - :bar_chart: I am constantly looking for new challenges
-  
-![192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0](https://github.com/Lesmol/Lesmol/assets/108514271/d37198b0-667f-4e2b-ae9b-e155d1c9881e)
+- :racing_car: A bias for action
+
+### Tools at my disposal :smirk:
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,azure,cs,dotnet,java,git,githubactions,tailwind&perline=6)](https://skillicons.dev)
 
