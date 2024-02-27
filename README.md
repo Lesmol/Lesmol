@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A software development student and here are some quick fire facts about me:
+A software development student and here are some quick-fire facts about me:
 - :house: I currently live in South Africa
 - :purple_heart: I have a strong appreciation for beautiful UI
 - :bar_chart: I am constantly looking for new challenges
