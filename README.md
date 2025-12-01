@@ -22,5 +22,5 @@ A software engineer and here are some quick-fire facts about me:
 - :racing_car: A bias for action
 
 ### Tools at my disposal :smirk:
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,js,ts,react,nextjs,azure,aws,terraform,java,cs,dotnet,git,githubactions,tailwind,firebase,html,css&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,anaconda,js,ts,react,nextjs,azure,aws,terraform,java,spring,cs,dotnet,git,githubactions,tailwind,html,css&perline=6)](https://skillicons.dev)
 
