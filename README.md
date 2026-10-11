@@ -19,14 +19,14 @@
 
 ```yaml
 lesedi:
-  role:        Software Engineer, Back-End
-  team:        BB Digital App @ Capitec Business Bank
-  promoted:    Oct 2026  # support specialist -> engineer, and still not over it 🎉
-  lives_in:    Pretoria (and commutes to Sandton, a side quest of its own)
-  builds:      the systems behind the screen, plus the screen when it needs some love
-  powered_by:  Java ☕ · Spring Boot · AWS · an unreasonable number of Lambdas
-  weakness:    a beautiful UI 💜
-  motto:       bias for action 🏎️
+  role:       Software Engineer, Back-End
+  team:       BB Digital App @ Capitec Business Bank
+  promoted:   Oct 2026  # support -> engineer 🎉
+  home:       Pretoria  # office: Sandton
+  builds:     the systems behind the screen
+  stack:      Java ☕ · Spring Boot · AWS · many Lambdas
+  weakness:   a beautiful UI 💜
+  motto:      bias for action 🏎️
 ```
 
 ## 🧭 The origin story, short version
