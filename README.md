@@ -19,19 +19,11 @@
 lesedi:
   role:       Software Engineer, Back-End
   team:       BB Digital App @ Capitec Business Bank
-  promoted:   Oct 2026  # support -> engineer 🎉
-  home:       Pretoria  # office: Sandton
   builds:     the systems behind the screen
   stack:      Java ☕ · Spring Boot · AWS · many Lambdas
   weakness:   a beautiful UI 💜
   motto:      bias for action 🏎️
 ```
-
-## 🧭 The origin story, short version
-
-I started in **support** at Capitec Business Bank in November 2024. That's where I learned the codebase the hard way: fixing escalated client issues, shipping production fixes, helping redesign the front end in React and running releases for the Business Banking app.
-
-In **October 2026** I moved over to **Software Engineer: Back-End** on the BB Digital App product team. I now build new features across the back end *and* the front end of the app. Same codebase, much bigger sandbox. 🏖️
 
 ## 🛠️ Things I've built after hours
 
