@@ -1,12 +1,10 @@
 <div align="center">
 
-# Dumela, I'm Lesedi 👋
+# Hi, I'm Lesedi 👋
 
 <a href="https://www.lvmolemi.com/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=I+build+the+systems+behind+the+screen.;Back-end+engineer+%40+Capitec+Business+Bank;Professional+Lambda+wrangler+%F0%9F%A4%A0;Terraform+apply+and+a+little+prayer+%F0%9F%99%8F" alt="Typing intro" />
 </a>
-
-*"Lesedi" means **light** in Setswana, which is fitting for someone who spends most of the day on the bits nobody sees.*
 
 [![Website](https://img.shields.io/badge/lvmolemi.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lvmolemi.com/)
 [![Blog](https://img.shields.io/badge/the_blog-1f2937?style=for-the-badge&logo=rss&logoColor=white)](https://www.lvmolemi.com/blog)
@@ -65,13 +63,6 @@ I wrote up the whole thing, mistakes included: **[From One Lambda to Four →](h
 [![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,rust,aws,terraform,docker,postgres,redis,githubactions,ts,react,nextjs,vite,tailwind,git&perline=9)](https://skillicons.dev)
 
 </div>
-
-## 🎲 Random facts, served fresh
-
-- 🌍 I'm from South Africa, where we have load-shedding, so my code has learned to be resilient too.
-- 🕳️ One of my early projects, [**Pfala**](https://github.com/Lesmol/pfala), used AI to grade potholes. If you've driven in SA, you get it.
-- 🧾 I've apparently got a thing for bank statements. Three repos and counting. No regrets.
-- 🏗️ My personal site is a [Next.js app on AWS](https://github.com/Lesmol/personal-portfolio). It was on Azure before that. Every portfolio needs a migration arc.
 
 <div align="center">
 
